@@ -47,4 +47,3 @@ IT IS A NON-STATIONARY DATA
 
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
-
